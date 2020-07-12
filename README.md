@@ -1,5 +1,6 @@
 # IJCNN2020_IRC
-This repository is for our IJCNN2020 conference paper of "An Input Residual Connection for Simplifying Gated Recurrent Neural Networks".
+This repository is for our IJCNN2020 conference paper </br>
+"An Input Residual Connection for Simplifying Gated Recurrent Neural Networks".
 
 (1)   Vanilla and IRC RNN language model for PTB</br>
 
@@ -13,5 +14,8 @@ This repository is for our IJCNN2020 conference paper of "An Input Residual Conn
 (4)   Original results gained from</br>
       PyTorch version 0.4.1.post2</br>
       Not PyTorch version 1.1.0</br>
+
+(5)   Our optimisation-based meta-learning codes will be addressed in
+      separate repositories
 
 Date updated: 12th of July, 2020 "eji u.4tp6"
