@@ -1,7 +1,6 @@
 # IJCNN2020_IRC
 This repository is for our IJCNN2020 conference paper of "An Input Residual Connection for Simplifying Gated Recurrent Neural Networks".
 
-###===###</br>
 (1)   Vanilla and IRC RNN language model for PTB</br>
 
 (2)   Mainly built on top of SalesForce's code (SF)</br>
